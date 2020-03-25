@@ -8,7 +8,7 @@ import dap.*;
 import formula.ui.*;
 import myutil.*;
 
-import javax.persistence.*;
+//import javax.persistence.*;
 
 /**
  * この型は VisualAge で作成されました。
