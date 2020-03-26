@@ -198,7 +198,7 @@ public class FBrowseView extends JFrame {
     mi.setMnemonic('P');
     mi.addActionListener(new ActionListener() {
       public void actionPerformed(ActionEvent e) {
-	fbvc.print(miShowNorm.isSelected());
+	fbvc.print2(miShowNorm.isSelected());
       }
     });
     m.add(mi);
